@@ -77,8 +77,7 @@
       &#1071;&#1085;&#1076;&#1077;&#1082;&#1089;&#1055;&#1088;&#1072;&#1082;&#1090;&#1080;&#1082;&#1091;&#1084;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#111111" WIDTH="thin"/>
 </node>
 </node>
@@ -124,8 +123,7 @@
       3Blue1Brown
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#990000" WIDTH="1"/>
 <node COLOR="#111111" CREATED="1677180237817" ID="ID_451614177" MODIFIED="1677181576526" TEXT="&#x43b;&#x438;&#x43d;&#x435;&#x439;&#x43d;&#x430;&#x44f; &#x430;&#x43b;&#x433;&#x435;&#x431;&#x440;&#x430;">
 <edge COLOR="#111111" WIDTH="thin"/>
@@ -153,7 +151,7 @@
 <node COLOR="#00b439" CREATED="1677181753528" HGAP="21" ID="ID_462667684" MODIFIED="1677182242121" POSITION="right" TEXT="&#x41f;&#x440;&#x430;&#x43a;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; &#x43d;&#x430;&#x432;&#x44b;&#x43a;&#x438; &#x440;&#x435;&#x448;&#x435;&#x43d;&#x438;&#x44f; DS &#x437;&#x430;&#x434;&#x430;&#x447;" VSHIFT="42">
 <edge COLOR="#00b439" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#990000" CREATED="1677181769948" ID="ID_1164022323" MODIFIED="1677182233718" TEXT="Kaggle">
+<node COLOR="#990000" CREATED="1677181769948" ID="ID_1164022323" LINK="https://www.kaggle.com/" MODIFIED="1677261800998" TEXT="Kaggle">
 <edge COLOR="#990000" WIDTH="1"/>
 </node>
 <node COLOR="#990000" CREATED="1677182215662" ID="ID_1251223730" LINK="https://ods.ai" MODIFIED="1677184934674" TEXT="Open Data Science &#x441;&#x43e;&#x43e;&#x431;&#x449;&#x435;&#x441;&#x442;&#x432;&#x43e;">
